@@ -1,0 +1,46 @@
+form{
+	overflow:auto;
+	min-width:100%;
+	min-height:100%;
+	
+}
+
+table{
+	white-space:nowrap;
+	position: relative;
+	background-color: #f2f2f2;
+	color:black;
+	border-collapse:collapse;
+}
+
+table, th, td {
+	border: 1px solid white;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:40px;
+	padding-right:40px;
+}
+
+tr:hover{
+	color:white;
+	background-color:black;
+	cursor:pointer;
+	
+}
+tr:first-child{
+	background-color:black;
+	color:red;
+	border: 1px solid black;
+	cursor:text;
+}
+
+tr:nth-child(even){
+	background-color:#d9d9d9;
+	color:black;
+}
+
+tr:nth-child(even):hover{
+	background-color:black;
+	color:white;
+	cursor:pointer;
+}
