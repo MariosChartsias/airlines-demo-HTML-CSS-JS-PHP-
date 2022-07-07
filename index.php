@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html> 
 	<head>
-		<link rel="icon" href="aviation_logo-22.png">
+		<link rel="icon" href="images/aviation_logo-22.png">
 		<meta charset="utf-8" name="viewport" content="width=device-width, user-scalable=no"/>
 		<title> FlyMeThere</title>
 		<link rel="stylesheet" href="Style.css"> 
